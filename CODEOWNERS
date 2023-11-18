@@ -12,10 +12,10 @@
 # This should make it easy to add new rules without breaking existing ones.
 
 # Global rule:
-*                   @sample/global-owner
+*                   @akanehattori
 
 # Sample category 1:
-/sample-category1/**  @sample-owner1
+/sample-category1/**  @georgehattori
 
 # Sample category 2:
-/sample-category2/**  @sample-owner2
+/sample-category2/**  @georgehattori
